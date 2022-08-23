@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "name": "Miguel Ángel",
+      "company": "Hapeil",
+      "email": "miguel@hapeil.com",
+      "phone": "3121810743",
+      "notes": "New customer",
+      "id": 1
+    },
+    {
+      "name": "Jacqueline Flores ",
+      "company": "Hapeil",
+      "email": "jacqueline@hapeil.com",
+      "phone": "3121810743",
+      "notes": "\"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.\"",
+      "id": 3
+    },
+    {
+      "name": "Pollie Flores",
+      "company": "Hapeil",
+      "email": "pollie@hapeil.com",
+      "phone": "3121037690",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in ex id elit interdum semper quis a dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ultricies diam suscipit velit facilisis, laoreet tempor orci mattis. Maecenas interdum metus vel quam semper eleifend. Integer nec magna non quam aliquet cursus. Vivamus nec eleifend tellus. Mauris cursus sit amet libero et mattis. Aliquam a neque nec leo convallis bibendum sed quis leo. Donec bibendum pellentesque dolor non tristique. Aliquam vehicula sapien vel erat interdum finibus. Fusce aliquet at nunc et volutpat. Duis elementum turpis at massa dignissim malesuada.\n\nNunc placerat maximus magna sed dictum. Maecenas ac tellus pulvinar, tempus sem sit amet, imperdiet quam. Ut sit amet ex dolor. Phasellus sagittis lorem nec enim ornare blandit. Nunc eu tellus sed nisl faucibus sodales ut sit amet ligula. Sed facilisis fermentum commodo. In eget lorem ac tortor eleifend rutrum. Phasellus vel ultricies felis, quis maximus purus.\n\nSed id eros at lorem hendrerit scelerisque nec sit amet odio. Aliquam lectus ipsum, venenatis a dui vel, laoreet rutrum risus. Cras et dolor nec dolor porta gravida vitae eu augue. Morbi tempus luctus euismod. Sed fringilla id nisi quis auctor. Aenean felis nunc, commodo eget erat non, fermentum facilisis felis. Phasellus tincidunt urna erat, vel dictum metus auctor at. Curabitur eu dolor eu lacus ultrices consequat. Duis non leo ut urna hendrerit blandit. Suspendisse sed risus porta, porttitor augue a, euismod massa. Aliquam suscipit nunc id orci aliquam, a blandit neque rutrum. Praesent sed nisl id nunc accumsan porttitor quis non nisl. Nulla sit amet augue at risus malesuada mollis at non tortor.",
+      "id": 4
+    },
+    {
+      "name": "Joshua Flores",
+      "company": "Hapeil",
+      "email": "joshua@hapeil.com",
+      "phone": "3121136875",
+      "notes": "",
+      "id": 5
+    }
+  ]
+}
