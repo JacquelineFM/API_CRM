@@ -6,6 +6,9 @@ import EditCustomer from "./pages/EditCustomer";
 import ViewCustomer from "./pages/ViewCustomer";
 
 const App = () => {
+
+  
+
   return (
     <BrowserRouter>
       <Routes>

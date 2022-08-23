@@ -32,7 +32,7 @@ const FormCustomer = ({ customer, loading }) => {
 
       if (customer.id) {
         // Edit customer
-        const URL = `http://localhost:4000/customers/${customer.id}`;
+        const URL = `${import.meta.env.VITE_API_URL}/${customer.id}`;
         response = await fetch(URL, {
           method: "PUT",
           body: JSON.stringify(values),
@@ -42,7 +42,7 @@ const FormCustomer = ({ customer, loading }) => {
         });
       } else {
         // New customer
-        const URL = "http://localhost:4000/customers";
+        const URL = import.meta.env.VITE_API_URL;
         response = await fetch(URL, {
           method: "POST",
           body: JSON.stringify(values),

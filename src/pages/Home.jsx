@@ -13,7 +13,7 @@ const Home = () => {
      */
     const getCustomersAPI = async () => {
       try {
-        const URL = "http://localhost:4000/customers";
+        const URL = import.meta.env.VITE_API_URL;
         const response = await fetch(URL);
         const result = await response.json();
 
@@ -35,7 +35,7 @@ const Home = () => {
 
     if (confirmDelete) {
       try {
-        const url = `http://localhost:4000/customers/${id}`;
+        const url = `${import.meta.env.VITE_API_URL}/${id}`;
         const response = await fetch(url, {
           method: "DELETE",
         });
